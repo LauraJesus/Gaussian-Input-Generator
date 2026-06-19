@@ -1,0 +1,11 @@
+C O Cl N H 0
+6-31g(d,p)
+ ****
+Pt 0
+lanl2dz
+****
+
+Pt 0
+lanl2dz
+
+Pt 1.72
